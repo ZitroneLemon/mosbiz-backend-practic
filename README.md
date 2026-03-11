@@ -97,7 +97,7 @@ php artisan serve
 
 ---
 
-##На Beget
+## На Beget
 
 1. Загрузить файлы проекта в папку `public_html` или создать симлинк:
 ln -s /путь/к/проекту/public /путь/к/public_html
